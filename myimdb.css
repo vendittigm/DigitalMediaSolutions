@@ -1,0 +1,91 @@
+
+/* CSS Document */
+
+body {
+    padding: 0;
+	margin: 0;
+	background-color: #d1d1d1;
+}
+
+h1 {
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    padding-top: 25px;
+    padding-left: 25px;
+    color: #1a1194;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    padding-top: 25px;
+    padding-left: 25px;
+    color: #1a1194;
+}
+
+#myDiv {
+	margin-left: 25px; 
+	color: #272727; 
+	padding-left: 5px; 
+	font-family: Arial, Helvetica, sans-serif; 
+	margin-bottom: 25px;
+}
+
+#results {
+	padding-left: 25px;
+    padding-top: 25px; 
+    color: #000;
+}
+
+.bodycopy {
+	font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    padding-left: 25px;
+    color: #272727;
+}
+
+hr.style-one {
+	border: 0;
+    border-bottom: 1px dashed #373737;
+}
+
+.btn-add {
+	width: 90px;
+    height: 35px;
+    background-color: #016aac;
+   -webkit-border-radius: 12px;
+   -moz-border-radius: 12px;
+    border-radius: 12px;
+    text-transform: uppercase;
+    margin-top: 5px;
+    padding-left: 5px;
+    color: #fff;
+    font-size: 14px;
+}
+
+
+.btn-search {
+	width: 90px;
+    height: 35px;
+    background-color: #016aac;
+   -webkit-border-radius: 12px;
+   -moz-border-radius: 12px;
+    border-radius: 12px;
+    text-transform: uppercase;
+    margin-top: 5px;
+    margin-left: 10px; 
+    padding-left: 5px;
+    color: #fff;
+    font-size: 14px;
+}
+
+.btn-search:hover {
+	background-color: #1a1194;
+}
+
+.btn-add:hover {
+	background-color: #1a1194;
+}
